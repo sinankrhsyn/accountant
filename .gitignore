@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+logs/
+verdict_history.json
+cache/
